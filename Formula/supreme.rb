@@ -3,7 +3,7 @@ class Supreme < Formula
   desc "A CLI tool that helps you get up an running fast"
   homepage "https://github.com/opendevtools/supreme-rs"
   url "https://github.com/opendevtools/supreme-rs/releases/download/#{version}/supreme-#{version}-x86_64-apple-darwin.tar.gz"
-  sha256 "34a77ce99a4419b3f925050b8879982e1457bab4eb18eb019567e8f94dfb3fa8"
+  sha256 "4a3c54729b548cbb2250ad5486560472bdfb8ed10d18fd2b6a435184f0bc912f"
 
   def install
     bin.install "supreme"

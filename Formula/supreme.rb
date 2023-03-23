@@ -1,5 +1,5 @@
 class Supreme < Formula
-  version "2.1.2"
+  version "2.1.3"
   desc "A CLI tool that helps you get up an running fast"
   homepage "https://github.com/opendevtools/supreme"
   url "https://github.com/opendevtools/supreme/releases/download/v#{version}/supreme-#{version}-aarch64-apple-darwin.tar.gz"

@@ -1,9 +1,9 @@
 class Supreme < Formula
-  version "2.3.0"
+  version "2.3.1"
   desc "A CLI tool that helps you get up an running fast"
   homepage "https://github.com/opendevtools/supreme"
   url "https://github.com/opendevtools/supreme/releases/download/v#{version}/supreme-#{version}-aarch64-apple-darwin.tar.gz"
-  sha256 "6e0582bbdcc05b7ddd06558d45786f86f002a005ad9d94b9a6a141cab92aa912"
+  sha256 "5e4c15c26680b3acef1ecaae0f32a5489c669fd22cd80d026368ef81551f3c4f"
 
   def install
     bin.install "supreme"
